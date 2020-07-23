@@ -1,0 +1,49 @@
+body, html {
+  font-family: 'Raleway', sans-serif;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: url('../img/curveAbout.svg');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.navbar li {
+  font-size: 20px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 50px;
+  color: white;
+}
+
+.navbar ul {
+  padding-top: 30px;
+  text-align: right;
+}
+
+.navbar a {
+  font-size: 20px;
+  color: white;
+}
+
+.navbar a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.hero h1 {
+  padding-top: 150px;
+  text-align: center;
+  color: white;
+  font-size: 45px;
+}
+
+.hero h2 {
+  padding-top: 100px;
+  padding-left: 150px;
+  color: white;
+  font-size: 35px;
+}

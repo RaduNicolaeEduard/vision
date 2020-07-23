@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Ai);
+      }
+
+      .cls-2 {
+        fill: #35353b;
+        stroke: #009989;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #292a2d;
+      }
+    </style>
+    <clipPath id="clip-Ai">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Ai" class="cls-1">
+    <rect class="cls-3" width="1920" height="1080"/>
+    <path id="Path_1" data-name="Path 1" class="cls-2" d="M1734.749-4.616S1758.18,583.367,1275,599.526,625.382,1080,625.382,1080H1866.009V-4.616Z" transform="translate(57 3)"/>
+  </g>
+</svg>

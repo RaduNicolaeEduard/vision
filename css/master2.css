@@ -1,0 +1,43 @@
+body, html {
+  font-family: 'Raleway', sans-serif;
+  height: 100%;
+  margin: 0;
+  background-color: black;
+}
+
+body {
+  background-image: url('../img/svg/aii.svg');
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.navbar li {
+  font-size: 20px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 50px;
+  color: white;
+}
+
+.navbar ul {
+  padding-top: 30px;
+  text-align: right;
+}
+
+.navbar a {
+  font-size: 20px;
+  color: white;
+}
+
+#predictions {
+  color: white;
+}
+
+.hero {
+  padding-top: 100px;
+}
+
+#predictions {
+  padding-top: 200px;
+  font-size: 30px;
+}

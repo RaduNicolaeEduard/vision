@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162.348" height="101.784" viewBox="0 0 162.348 101.784">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1fff89;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #009989;
+      }
+
+      .cls-3 {
+        stroke: #1fff89;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-size: 29px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        letter-spacing: 0.03em;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-99.651 -72.502)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="20.898" height="101.238" rx="10.449" transform="matrix(0.899, -0.438, 0.438, 0.899, 99.651, 83.066)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-2" width="20.898" height="59.363" rx="10.449" transform="translate(175.07 72.502) rotate(23)"/>
+    <g id="Rectangle_3" data-name="Rectangle 3" class="cls-3" transform="translate(143.473 146.964) rotate(23)">
+      <rect class="cls-5" width="20.898" height="20.811" rx="10.405"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="19.898" height="19.811" rx="9.905"/>
+    </g>
+    <text id="Vision" class="cls-4" transform="translate(172.999 158.337)"><tspan x="0" y="0">Vision</tspan></text>
+  </g>
+</svg>

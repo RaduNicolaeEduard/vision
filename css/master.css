@@ -1,0 +1,82 @@
+body, html {
+  font-family: 'Raleway', sans-serif;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: url('../img/svg/Ai.svg');
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.navbar li {
+  font-size: 20px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 50px;
+  color: white;
+}
+
+.navbar ul {
+  padding-top: 30px;
+  text-align: right;
+}
+
+.navbar a {
+  font-size: 20px;
+  color: white;
+}
+
+.Hero {
+  margin-left: -70px;
+  padding-top: 100px;
+}
+
+.navbar a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.Hero h1 {
+  color: white;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.Hero p {
+  padding-bottom: 40px;
+  padding-top: 40px;
+  color: #8D8D8D;
+  font-size: 20px;
+}
+
+.myButton {
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  border: 1px solid #1FFF89;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  padding: 9px 80px;
+  text-decoration: none;
+}
+
+.myButton:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.robot img {
+  margin-right: 15%;
+  margin-top: -70px;
+  float: right;
+}
